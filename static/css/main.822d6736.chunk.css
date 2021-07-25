@@ -1,0 +1,2 @@
+*{margin:0;box-sizing:border-box}.parent{height:auto;width:100%;display:flex;justify-content:center;margin-top:5%;line-height:45px}.firstChild{width:80%;border:2px solid #000;border-radius:5px;padding:2%}.childone,.firstChild{height:auto;display:flex;flex-direction:column}.childone{width:100%;margin-left:5%}.add{font-size:.8rem;padding:.5%;border-radius:5px;background-color:#fff;border:1px solid #000;cursor:pointer}.add,.button{height:auto;width:auto}.indent{margin-left:5%}
+/*# sourceMappingURL=main.822d6736.chunk.css.map */
